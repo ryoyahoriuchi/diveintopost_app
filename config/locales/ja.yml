@@ -219,6 +219,8 @@ ja:
       failed_to_post: '投稿できませんでした...'
       create_team: 'チーム作成に成功しました！'
       failed_to_save_team: '保存に失敗しました、、'
+      failed_to_edit_team: 'リーダー以外は編集できません'
+      cannot_delete_member_unless_myself_or_owner: 'リーダーもしくは本人以外は削除できません'
       update_team: 'チーム更新に成功しました！'
       delete_team: 'チーム削除に成功しました！'
       update_profile: 'プロフィールを編集しました！'
