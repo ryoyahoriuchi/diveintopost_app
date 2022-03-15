@@ -223,6 +223,7 @@ ja:
       delete_team: 'チーム削除に成功しました！'
       update_profile: 'プロフィールを編集しました！'
       complete_registration: '登録完了'
+      leader_change: 'リーダー変更連絡'
       edit_article: '記事を編集する'
       input_title: '記事タイトルを入力してください'
       input_content: '内容を入力してください'
@@ -253,12 +254,14 @@ ja:
       edit_profile: 'プロフィールを編集'
       team_you_belong_to: '所属しているチーム'
       posted_articles: '投稿した記事一覧'
+      transfer_authority: 'リーダーを変更しました'
     button:
       submit: '投稿'
       edit: '編集'
       delete: '削除'
       create: '作成'
       invite: '招待'
+      transfer_authority: '権限移動'
     top:
       line1: 'このアプリケーションは、チームごと、議題ごとに別れて'
       line2: '特定のイシュー（議題）をメンバーで見やすく共有するためのアプリケーションです'

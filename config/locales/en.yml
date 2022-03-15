@@ -233,6 +233,7 @@ en:
       delete_team: 'The team has been deleted'
       update_profile: 'Successfully update your profile!'
       complete_registration: 'Registration completed'
+      leader_change: 'Leader changed'
       edit_article: 'Edit an article'
       input_title: 'Input a title of this article'
       input_content: 'Input a content of this artcile'
@@ -263,12 +264,14 @@ en:
       edit_profile: 'Edit Profile'
       team_you_belong_to: 'The team you belong to'
       posted_articles: 'List of posted articles'
+      transfer_authority: 'Transferred the leader'
     button:
       submit: 'Submit'
       edit: 'Edit'
       delete: 'Delete'
       create: 'Create'
       invite: 'Invite'
+      transfer_authority: 'Give authority'
     top:
       line1: 'it is an application to share a specific issue (agenda) easily'
       line2: 'for each member separately for each team or agenda'
