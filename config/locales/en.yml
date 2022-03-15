@@ -233,6 +233,7 @@ en:
       delete_team: 'The team has been deleted'
       update_profile: 'Successfully update your profile!'
       complete_registration: 'Registration completed'
+      leader_change: 'Leader changed'
       edit_article: 'Edit an article'
       input_title: 'Input a title of this article'
       input_content: 'Input a content of this artcile'

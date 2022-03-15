@@ -50,7 +50,7 @@ class TeamsController < ApplicationController
   def authority
     @team.update(owner_id: params[:owner_id])
     @user = User.find(@team.owner_id)
-    #メールを送る処理
+    AssignMailer.transfer_right(@team, @user).deliver
 
     redirect_to team_path, notice: I18n.t('views.messages.transfer_authority')
   end
