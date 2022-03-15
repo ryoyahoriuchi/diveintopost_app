@@ -229,6 +229,8 @@ en:
       failed_to_post: 'Failed to post ...'
       create_team: 'Successfully created a team!'
       failed_to_save_team: 'Failed to save...'
+      failed_to_edit_team: 'Only the owner can edit...'
+      cannot_delete_member_unless_myself_or_owner: 'Myself or leader can member delete...'
       update_team: 'Successfully updated the team!'
       delete_team: 'The team has been deleted'
       update_profile: 'Successfully update your profile!'
