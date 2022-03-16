@@ -250,6 +250,7 @@ en:
       select_team: 'Select Team'
       create_agenda: 'Create Agenda'
       delete_agenda: 'Delete Agenda'
+      not_delete_agenda: 'Agenda can only be deleted by reader or author'
       input_agenda_title: 'Input title'
       input_team_name: 'Input a team name'
       recent_posts: 'Recent Posts'
